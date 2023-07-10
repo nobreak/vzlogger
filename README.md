@@ -1,0 +1,2 @@
+# vzlogger
+volkszähler logger configuration
